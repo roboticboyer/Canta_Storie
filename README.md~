@@ -1,2 +1,12 @@
-# Canta_Storie
-Canta Storie con Arduino
+# Canta Storie
+Canta Storie realizzato con Arduino Nano
+
+Le storie sono salvate su una SD 
+
+
+Sono Necessari:
+- Arduino Uno Nano
+- MP3 DFPlayer
+- SD Card con file MP3
+- PN532
+- Tessere RFID (anche riciclate da biglietti mezzi pubblici)
