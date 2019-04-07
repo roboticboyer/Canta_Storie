@@ -2,6 +2,7 @@
 Canta Storie realizzato con Arduino Nano
 
 Le storie, in formato MP3, sono salvate su una SD Card
+
 I Tag RFID, tipo quelli dei biglietti dei mezzi pubblici
 
 
@@ -12,4 +13,4 @@ Sono Necessari:
 - PN532
 - Tessere/Tag RFID (anche riciclate da biglietti dei mezzi pubblici)
 
-Nella cartella Drawing gli schemi elettrici per costruire il circuito
+Nella cartella Drawings gli schemi elettrici per costruire il circuito

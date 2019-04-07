@@ -1,7 +1,8 @@
 # Canta Storie
 Canta Storie realizzato con Arduino Nano
 
-Le storie sono salvate su una SD 
+Le storie, in formato MP3, sono salvate su una SD Card
+I Tag RFID, tipo quelli dei biglietti dei mezzi pubblici
 
 
 Sono Necessari:
@@ -9,4 +10,6 @@ Sono Necessari:
 - MP3 DFPlayer
 - SD Card con file MP3
 - PN532
-- Tessere RFID (anche riciclate da biglietti mezzi pubblici)
+- Tessere/Tag RFID (anche riciclate da biglietti dei mezzi pubblici)
+
+Nella cartella Drawing gli schemi elettrici per costruire il circuito
